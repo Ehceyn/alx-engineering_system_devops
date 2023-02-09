@@ -48,25 +48,25 @@
 
 
 
-    -   Write a script that creates a directory named `holberton` in the `/tmp/` directory.
+    -   Write a script that creates a directory named `my_first_directory` in the `/tmp/` directory.
 
 [7-movethatfile](https://github.com/Ehceyn/alx-system_engineering-devops/edit/master/0x00-shell_basics/7-movethatfile)
 
 
 
-    -   Write a script that moves the file `betty` from `/tmp/` to `/tmp/holberton/`.
+    -   Write a script that moves the file `betty` from `/tmp/` to `/tmp/my_first_directory/`.
 
 [8-firstdelete](https://github.com/Ehceyn/alx-system_engineering-devops/edit/master/0x00-shell_basics/8-firstdelete)
 
 
 
-    -   Write a script that deletes the file `betty` in the `/tmp/holberton/` directory.
+    -   Write a script that deletes the file `betty` in the `/tmp/my_first_directory/` directory.
 
 10. [9-firstdirdeletion](https://github.com/Ehceyn/alx-system_engineering-devops/edit/master/0x00-shell_basics/9-firstdirdeletion)
 
 
 
--   Write a script that deletes the directory `holberton` in the `/tmp/` directory.
+-   Write a script that deletes the directory `my_first_directory` in the `/tmp/` directory.
 
 
 
