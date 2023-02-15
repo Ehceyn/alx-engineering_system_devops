@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "User Database:\n\n$(cat /etc/passwd)\n\nHost Database:\n\n$(cat /etc/hosts)"
